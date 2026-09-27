@@ -1,0 +1,23 @@
+[
+    {
+        "id_producto": "P001",
+        "nombre": "Sopa Marinera",
+        "categoria": "Plato Fuerte",
+        "precio": 8.5,
+        "disponible": true
+    },
+    {
+        "id_producto": "P002",
+        "nombre": "Jugo Natural de Naranjilla",
+        "categoria": "Bebidas",
+        "precio": 2.0,
+        "disponible": true
+    },
+    {
+        "id_producto": "P003",
+        "nombre": "Jair G",
+        "categoria": "Postres",
+        "precio": 2.0,
+        "disponible": true
+    }
+]
